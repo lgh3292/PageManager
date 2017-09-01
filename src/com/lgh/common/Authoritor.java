@@ -5,7 +5,7 @@ public class Authoritor {
 	private int port;
 	private String username="";
 	private String password="";
-	
+	  
 	public Authoritor(String ip, int port, String username, String password) {
 		super();
 		this.ip = ip;
